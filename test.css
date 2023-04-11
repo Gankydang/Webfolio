@@ -1,0 +1,65 @@
+#my {
+    font-family: cursive;
+}
+
+#amazing {
+    color: rgb(174, 0, 255);
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
+
+#portfolio {
+    font-family: fantasy;
+}
+
+body {
+    background: linear-gradient(110deg, #f7052d, #f7a605, #03fcb6, #f7a605, #f7052d);
+}   
+
+.header {
+    padding-left: 36%;
+}
+
+h1 {
+    text-align: center;
+    font-size: 3em;
+}
+
+h2 {
+    font: 1.5em Arial;
+
+}
+
+ol {
+    padding-left: 40%;
+}
+
+ul {
+    padding-left: 40%;
+    list-style: none;
+}
+
+.with_emoji li::before {
+    content: '👉 ';
+}
+
+a.link_to_headers {
+    color: black;
+
+}
+
+hr {
+    border-color: black;
+    border-style: dashed;
+}
+
+#superscript {
+    font-size: 0.5em;
+}
+
+table {
+    padding-left: 40%;
+}
+
+p {
+    text-align: center;
+}
